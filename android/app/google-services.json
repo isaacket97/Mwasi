@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680819782140",
+    "project_id": "mwasi1",
+    "storage_bucket": "mwasi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680819782140:android:e37193a469e4149321c279",
+        "android_client_info": {
+          "package_name": "com.olinabanji7.mwasi_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dVaqeRQ5PPnD4j_ELwaqQfFEKEsBA9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
